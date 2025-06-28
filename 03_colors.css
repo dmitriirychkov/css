@@ -1,0 +1,38 @@
+.color-1 {
+    color: navy;
+}
+
+/* RedGreenBlue -RGB */
+.color-2 {
+    color: #AFEEEE;
+}
+
+.color-3 {
+    color: #ff00ff;
+}
+
+.color-4 {
+    color: #000000;
+}
+
+.color-5 {
+    color: #ffffff;
+}
+
+.color-6 {
+    color: #000;
+}
+
+/* 0 - 255 */
+.color-7 {
+    color: rgb(0, 56, 67);
+}
+
+.color-7 {
+    color: rgba(0, 156, 6, 0.5);
+}
+
+.color-7 {
+    color: rgb(10, 16, 3);
+    opacity: 0.2;
+}
